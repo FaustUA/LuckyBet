@@ -1,0 +1,63 @@
+Brighton & Hove Albion, Brighton &amp; Hove Albion
+Dijon, Dijon FCO
+Caen, Stade Malherbe Caen
+Marseille, Olympique de Marseille
+Monaco, AS Monaco
+Troyes, Troyes AC
+Bordeaux, Girondins de Bordeaux
+Levante, Levante UD
+Zwolle, PEC Zwolle
+Toronto FC, Toronto
+Valladolid, Real Valladolid
+Celta de Vigo, Celta
+FC Cartagena, Cartagena
+Formentera, SD Formentera
+Deportivo de la Coruna, Deportivo de La Coruna
+Alaves, Deportivo Alaves
+Ponferradina, SD Ponferradina
+Saint-Etienne, AS Saint-Etienne
+Pescara, Delfino Pescara 1936
+Bourg-Peronnas, Bourg-en-Bresse Peronnas 01
+Paris FC, Paris
+Niort, Chamois Niortais
+Nimes, Nimes Olympique
+Sochaux, Sochaux-Montbeliard
+Stuttgart, VfB Stuttgart
+Mainz 05, 1. FSV Mainz 05
+Koln, 1. Koln
+Angers, Angers SCO
+Lille, Lille OSC
+Zenit St Petersburg, Zenit Saint Petersburg
+Rubin Kazan, Rubin
+Lyon, Olympique Lyonnais
+Rennes, Stade Rennais
+Sassuolo, Sassuolo Calcio
+FC Mariupol, Mariupol
+Desna, Desna Chernihiv
+FC Lviv, Lviv
+Veres, Veres Rivne
+Antwerp, Royal Antwerp
+Zaragoza, Real Zaragoza
+Junior Barranquilla, Junior de Barranquilla
+Hertha Berlin, Hertha BSC
+Wolfsburg, VfL Wolfsburg
+Benevento, Benevento Calcio
+Betis, Real Betis
+Cadiz, Cádiz
+Udinese, Udinese Calcio
+Verona, Hellas Verona
+Gimnastic de Tarragona, Gimnàstic de Tarragona
+Montpellier, Montpellier HSC
+Akhmat Grozny, Akhmat
+Anzhi, Anzhi Makhachkala
+Sporting Lisboa, Sporting
+Olympiacos Pireas, Olympiacos
+RB Leipzig, RasenBallsport Leipzig
+Venlo, VVV-Venlo
+Roda, Roda JC Kerkrade
+Partizan Beograd, Partizan
+Zlin, Fastav Zlin
+Skenderbeu, KF Skenderbeu Korce
+BATE, BATE Borisov
+Crvena Zvezda, Red Star Belgrade
+Zorya Lugansk, Zorya Luhansk
